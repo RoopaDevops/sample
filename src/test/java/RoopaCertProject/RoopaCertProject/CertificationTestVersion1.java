@@ -33,6 +33,6 @@ public class CertificationTestVersion1
      */
     public void test1()
     {
-        System.out.println("Version 1 of Devops certification project");
+        System.out.println("Version 2 of Devops certification project");
     }
 }
